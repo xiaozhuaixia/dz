@@ -1,0 +1,15 @@
+<?PHP exit;?>	1509090051	admin	1	::1		GET={}; POST={};
+<?PHP exit;?>	1509090052	admin	1	::1	index	GET={}; POST={};
+<?PHP exit;?>	1509090053	admin	1	::1	plugins	GET={}; POST={};
+<?PHP exit;?>	1509090057	admin	1	::1	plugins	GET={operation=import; dir=magmobileapi; }; POST={};
+<?PHP exit;?>	1509090057	admin	1	::1	plugins	GET={operation=import; dir=magmobileapi; }; POST={};
+<?PHP exit;?>	1509090058	admin	1	::1	plugins	GET={operation=plugininstall; dir=magmobileapi; pluginid=13; }; POST={};
+<?PHP exit;?>	1509090059	admin	1	::1	plugins	GET={hl=13; }; POST={};
+<?PHP exit;?>	1509090062	admin	1	::1	plugins	GET={operation=enable; pluginid=13; }; POST={};
+<?PHP exit;?>	1509090066	admin	1	::1	plugins	GET={}; POST={};
+<?PHP exit;?>	1509090336	admin	1	::1	search	GET={keywords=手机; searchsubmit=搜索; }; POST={keywords=手机; searchsubmit=搜索; };
+<?PHP exit;?>	1509090338	admin	1	::1	setting	GET={operation=mobile; highlight=手机; }; POST={};
+<?PHP exit;?>	1509090338	admin	1	::1	setting	GET={frames=yes; operation=mobile; highlight=手机; }; POST={};
+<?PHP exit;?>	1509090338	admin	1	::1	setting	GET={operation=mobile; highlight=手机; }; POST={};
+<?PHP exit;?>	1509090342	admin	1	::1	setting	GET={edit=yes; anchor=status; operation=mobile; settingnew={mobile={allowmobile=1; mobileforward=1; mobiletopicperpage=10; mobilepostperpage=5; }; }; settingsubmit=提交; }; POST={anchor=status; operation=mobile; settingnew={mobile={allowmobile=1; mobileforward=1; mobiletopicperpage=10; mobilepostperpage=5; }; }; settingsubmit=提交; };
+<?PHP exit;?>	1509090346	admin	1	::1	setting	GET={operation=mobile; anchor=status; }; POST={};

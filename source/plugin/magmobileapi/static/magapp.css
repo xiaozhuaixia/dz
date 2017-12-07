@@ -1,0 +1,11 @@
+.mag_viewthread{ height:32px; overflow: hidden; position: relative; line-height: 32px; margin: 50px 0 20px 0; color: #369; }
+.mag_viewthread .mag_text,.mag_viewthread a{ position: absolute; right:38px; top:0;color: #369; text-decoration: none;} 
+.mag_viewthread .mag_qrcode{ position: absolute; right: 16px; top: 9px; width: 16px; height: 16px;  background: url(imgs/qrcode.png) no-repeat;  }
+.magapp-appdl-note{ color:#999; line-height: 20px; font-size: 14px; text-align: center; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; }
+.magapp-qrcode-download{ width:152px; }
+.magapp-qrcode-download .bm_c{ padding:16px; }
+.magapp-qrcode-download-img{ max-width: 120px; }
+
+
+
+

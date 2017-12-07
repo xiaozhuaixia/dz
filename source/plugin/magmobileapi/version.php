@@ -1,0 +1,4 @@
+<?php
+
+define('MAGMOBILEAPI_VERSION','201709060001');
+
